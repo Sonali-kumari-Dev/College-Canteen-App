@@ -1,0 +1,6 @@
+{
+  "name": "CanteenX",
+  "description": "Full-stack multi-canteen college food ordering and kitchen management system",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
